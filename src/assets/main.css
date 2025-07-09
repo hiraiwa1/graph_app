@@ -1,0 +1,23 @@
+@import "./base.css";
+
+:root {
+  --c-blue: #3e6ced;
+  --c-blue-l: #d7e0fa;
+
+  --c-gray: #dcdfe5;
+  --c-gray-d: #7f8189;
+  --c-gray-l: #ebedf1;
+
+  --c-red: #f94c1c;
+
+  --c-white: #fff;
+
+  --c-text: #0c1429;
+
+  --c-btn-shadow: #3055ba;
+  --c-btn-l-shadow: #b4bcd1;
+}
+
+body {
+  color: var(--c-text);
+}
